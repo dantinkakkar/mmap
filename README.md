@@ -1,5 +1,5 @@
 # mmap
-Manthan 2023, Mechanical Sympathy
+Using [https://en.wikipedia.org/wiki/Mmap](mmap), a Unix system call that maps files/devices into memory to read metadata from a Large Language Model (LLM) file. This is a small snippet to demonstrate usage of mmap and expects the model file(s) to be in a predetermined format. Implementations are defined in C and Java so far.
 
 ## C Implementation
 
